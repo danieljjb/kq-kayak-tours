@@ -91,3 +91,12 @@ nav li {
 #about-us-image, #about-us p {
   width: 70%;
 }
+
+/* hr */
+
+hr {
+  border-style: none;
+  border-top: 15px dotted #387eaf;
+  opacity: 0.6;
+  margin: 50px 33% 50px 33%;
+} 
