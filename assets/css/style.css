@@ -15,3 +15,45 @@ body {
     font-family: 'Montserrat' sans-serif;
     font-size: 1.6rem;
 } 
+
+
+/* header, nav and menu */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  box-shadow: 0 1px 8px #ddd;
+}
+
+header a {
+  text-decoration: none;
+  color: #0557a4
+}
+
+#logo {
+  font-size: 3.2rem;
+  color: #0557a4;
+}
+
+
+nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 0 20px;
+  font-size: 2rem;
+  color: #0557a4;
+}
+
+#menu a {
+    padding: .3rem;
+}
+
+#menu a:hover {
+  background-color: #0557a4;
+  border-radius: 3px;
+  color: white;
+  padding: .3rem;
+}
+
