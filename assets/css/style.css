@@ -106,6 +106,7 @@ nav li {
 
 #tours h2 {
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 #packages {
@@ -129,6 +130,7 @@ nav li {
 #packages div h3 {
   text-transform: uppercase;
   color: black;
+  margin-bottom: 1rem;
 }
 
 #packages div p {
@@ -145,6 +147,10 @@ nav li {
 
 .fa-children {
   color: orange;
+}
+
+.fa-solid {
+  font-size: 150%;
 }
 
 .fa-solid:hover {
