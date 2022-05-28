@@ -45,3 +45,7 @@ I decided the use a simple color design for this website. The blue in this selec
 * #0557a4 - This color is used for text in the nav, as a border and as a background color on certain parts on the site.
 * #FFFFFF - This color is used as a background for the nav and other parts of the website, as a border and for text in the testimonials section.
 * #000000 - This color is used for text.
+
+## Icons
+
+I used icons for social media and for tours packages, all of which I got from [Font Awesome library](https://fontawesome.com/ "Font Awesome").
