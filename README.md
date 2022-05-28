@@ -49,3 +49,7 @@ I decided the use a simple color design for this website. The blue in this selec
 ## Icons
 
 I used icons for social media and for tours packages, all of which I got from [Font Awesome library](https://fontawesome.com/ "Font Awesome").
+
+## Fonts
+
+I have chosen to use the font [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montser "Montserrat font") which I imported from [Google Fonts](https://fonts.google.com/ "Google Fonts"). I chose this font because I think really fits in with the design of the website.
