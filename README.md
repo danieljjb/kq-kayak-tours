@@ -21,3 +21,9 @@ This website will provide information on a kayak tour business in a village in W
 * As a prospective user, I would like to easily contact the business.
 * As a prospective user, I would like to see links to social media.
 
+## Business Owners Goals
+
+* Provide relevant information about the business.
+* Create an online presence.
+* Increase the number of customers.
+
