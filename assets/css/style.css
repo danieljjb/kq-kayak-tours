@@ -96,7 +96,7 @@ nav li {
 /* tours */
 
 #tours {
-  height: 31vh;
+  height: 100%;
 }
 
 #tours h2 {
@@ -144,6 +144,43 @@ nav li {
 
 .fa-solid:hover {
   color: red;
+}
+
+/* testimonials */
+
+#testimonials {
+  width: 100%;
+  text-align: center;
+  height: 100%;
+  background-color: #0557a4;
+}
+
+#testimonials div {
+  color: white;
+  width: 25.6rem;
+  height: 30rem;
+  padding: 3rem 1rem 1rem 1rem;
+  display: inline-block;
+  border: .2rem solid white;
+  box-sizing: border-box;
+  vertical-align: top;
+  margin: 2.5rem 1rem 2.5rem 1rem;
+}
+
+#testimonials h2 {
+  color: white;
+}
+
+#testimonials div h3 {
+  color: gold;
+}
+
+#testimonials div h4 {
+  text-transform: uppercase;
+}
+
+#testimonials div p {
+  color: white;
 }
 
 /* hr */
