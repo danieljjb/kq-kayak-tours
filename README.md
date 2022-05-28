@@ -38,7 +38,7 @@ This website will provide information on a kayak tour business in a village in W
 
 ## Colors
 
-<img src="assets/readme.png">
+<img src="/assets/readme/colorpalette.png">
 
 I decided the use a simple color design for this website. The blue in this selection helps represent the ocean and it contrasts nicely with black and white.
 
