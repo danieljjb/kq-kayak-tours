@@ -27,3 +27,10 @@ This website will provide information on a kayak tour business in a village in W
 * Create an online presence.
 * Increase the number of customers.
 
+### Requirements
+
+* Clear and concise information on packages.
+* Visually attractive to maintain user attention.
+* Easy to navigate on all devices.
+* Easy to contact the business.
+
