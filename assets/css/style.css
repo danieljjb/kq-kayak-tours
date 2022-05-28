@@ -92,6 +92,60 @@ nav li {
   width: 70%;
 }
 
+
+/* tours */
+
+#tours {
+  height: 31vh;
+}
+
+#tours h2 {
+  text-align: center;
+}
+
+#packages {
+  width: 100%;
+  text-align: center
+}
+
+#packages div {
+  color: #0557a4;
+  width: 30rem;
+  height: 45rem;
+  padding: 3rem 1rem 1rem 1rem;
+  display: inline-block;
+  border: .2rem dotted #0557a4;
+  box-sizing: border-box;
+  vertical-align: top;
+  margin: 2.5rem 1rem 2.5rem 1rem;
+}
+
+
+#packages div h3 {
+  text-transform: uppercase;
+  color: black;
+}
+
+#packages div p {
+  color: black;
+}
+
+.fa-otter {
+  color: green;
+}
+
+.fa-fish {
+  color: #0557a4;
+}
+
+.fa-children {
+  color: orange;
+}
+
+.fa-solid:hover {
+  color: red;
+}
+
 /* hr */
 
 hr {
