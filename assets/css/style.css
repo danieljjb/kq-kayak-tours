@@ -237,8 +237,9 @@ input[type=submit]:hover {
 /* footer */
 
 footer {
-  height: 100px;
+  height: 10rem;
   background-color: #0557a4;
+
 }
 
 #social-networks {
@@ -251,8 +252,8 @@ footer {
 
 #social-networks i {
   font-size: 150%;
-  margin: 10px;
-  padding: 10px;
+  margin: 1rem;
+  padding: 1rem;
   color: white;
 }
 
