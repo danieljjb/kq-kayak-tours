@@ -234,6 +234,28 @@ input[type=submit]:hover {
   margin: 2.5rem 5rem;
 }
 
+/* footer */
+
+footer {
+  height: 100px;
+  background-color: #0557a4;
+}
+
+#social-networks {
+  text-align: center;
+}
+
+#social-networks > li {
+  display: inline;
+}
+
+#social-networks i {
+  font-size: 150%;
+  margin: 10px;
+  padding: 10px;
+  color: white;
+}
+
 
 /* hr */
 
