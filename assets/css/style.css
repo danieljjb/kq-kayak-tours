@@ -275,3 +275,18 @@ hr {
   opacity: 0.6;
   margin: 5rem 33% 5rem 33%;
 } 
+
+/* media queries */
+
+@media screen and (min-width: 1000px) {
+
+  #about-us p, #about-us-image {
+      width: 60%;
+
+    }
+
+  .container {
+    margin: auto 7.5rem;
+    }
+  
+}
