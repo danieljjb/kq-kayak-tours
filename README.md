@@ -69,3 +69,7 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 <img src="/assets/readme/navbar.png">
 
 * The navbar includes clear headings to provide an easy way to navigate the website including: About Us, Tours, Testimonials and Contact.
+
+<img src="/assets/readme/navbar-hover.png">
+
+* When a heading is hovered over in the navbar the text changes to white and the background changes to blue so as to let the user know what they are about select.
