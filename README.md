@@ -73,3 +73,5 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 <img src="/assets/readme/navbar-hover.png">
 
 * When a heading is hovered over in the navbar the text changes to white and the background changes to blue so as to let the user know what they are about select.
+
+<img src="/assets/readme/navbar-phone.png">
