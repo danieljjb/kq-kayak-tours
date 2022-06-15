@@ -68,3 +68,4 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 
 <img src="/assets/readme/navbar.png">
 
+* The navbar includes clear headings to provide an easy way to navigate the website including: About Us, Tours, Testimonials and Contact.
