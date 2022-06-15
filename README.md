@@ -104,6 +104,6 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 
 * When the user hovers over an icon it changes color which increases the attractiveness of the website
 
-<img src="/assets/readme/section-phone.png">
+<img src="/assets/readme/tours-section-phone.png">
 
 * The boxes the tours are presented in become stacked on top each other for phone users (Iphone XR used in example).
