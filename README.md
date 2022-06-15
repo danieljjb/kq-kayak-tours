@@ -63,3 +63,5 @@ I have chosen to use the font [Montserrat](https://fonts.google.com/specimen/Mon
 ## Existing Features
 
 ### Navigation Bar
+
+<img src="/assets/readme/navbar.png">
