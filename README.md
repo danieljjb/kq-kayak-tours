@@ -82,4 +82,5 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 
 <img src="/assets/readme/homepage.png">
 
+* When the user opens up the homepage they will be greeted with the navigation bar, as shown previously, and an image of a person kayaking which helps to give context to what they may expect to find on the website.
 
