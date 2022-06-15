@@ -77,3 +77,9 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 <img src="/assets/readme/navbar-phone.png">
 
 * The items in the navbar stack on top of each other when using a phone (Iphone XR used in example).
+
+### Homepage
+
+<img src="/assets/readme/homepage.png">
+
+
