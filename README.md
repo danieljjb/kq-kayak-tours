@@ -84,3 +84,10 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 
 * When the user opens up the homepage they will be greeted with the navigation bar, as shown previously, and an image of a person kayaking which helps to give context to what they may expect to find on the website.
 
+### About Us Section
+
+<img src="/assets/readme/about-us-section.png">
+
+* The About Us section contains an aerial image of the area where the business is located and provides the users an attractive view of the marina and beach.
+
+* There is text which gives an introduction to the business and it's owner. This helps users become familiar with the business.
