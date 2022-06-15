@@ -93,3 +93,17 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 * There is text which gives an introduction to the business and it's owner. This helps users become familiar with the business.
 
 ### Tours Section
+
+<img src="/assets/readme/tours-section.png">
+
+* The Tours section contains information about what packages the business offers. It provides information to the user about what they can expect in terms of the itinerary and price per person.
+
+* Attractive icons are used above each package to entice the user.
+
+<img src="/assets/readme/tours-icon-hover.png">
+
+* When the user hovers over an icon it changes color which increases the attractiveness of the website
+
+<img src="/assets/readme/section-phone.png">
+
+* The boxes the tours are presented in become stacked on top each other for phone users (Iphone XR used in example).
