@@ -66,7 +66,7 @@ I have chosen to use the font [Montserrat](https://fonts.google.com/specimen/Mon
 
 The navigation bar is fully responsive and works on multiple screen sizes. It includes links to navigate the website and has the name of the business which also acts as home button.
 
-<img src="/docs/readme/navbar.png">
+<img src="/docs/navbar.png">
 
 * The navbar includes clear headings to provide an easy way to navigate the website including: About Us, Tours, Testimonials and Contact.
 
