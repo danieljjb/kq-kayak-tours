@@ -149,3 +149,10 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 * Hamburger menu for smaller screens.
 * An online shop where users can buy their tour online as well as buy vouchers for friends.
 * Video compilations of what to expect for each package.
+
+# Technologies Used
+
+## Languages
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
