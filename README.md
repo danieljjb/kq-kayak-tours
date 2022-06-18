@@ -19,7 +19,7 @@ This website will provide information on a kayak tour business in a village in W
 
 ## User Stories
 
-* As a user, I would like to see some backround information about the business.
+* As a  user, I would like to see some backround information about the business.
 * As a user, I would like to see what the business offers including intinerary, prices etc.
 * As a user, I would like to read about other customers experiences with this business.
 * As a user, I would like to easily contact the business.
@@ -102,7 +102,7 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 
 <img src="/docs/tours-icon-hover.png">
 
-* When the user hovers over an icon it changes color which increases the attractiveness of the website
+* When the user hovers over an icon it changes color which increases the attractiveness of the website.
 
 <img src="/docs/tours-section-phone.png">
 
@@ -139,3 +139,7 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 <img src="/docs/footer.png">
 
 * The footer section contains links to the business' Facebook, Instagram and Twitter, which open in a seperate tab when clicked on.
+
+<img src="/docs/footer-hover.png">
+
+* When the user hovers over an icon it changes color to help the user know which one they are about to select.
