@@ -156,3 +156,8 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
+
+## Libraries and Frameworks
+
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
