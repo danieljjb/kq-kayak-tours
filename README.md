@@ -107,3 +107,5 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 <img src="/docs/tours-section-phone.png">
 
 * The boxes the tours are presented in become stacked on top each other for phone users (Iphone XR used in example).
+
+### Testimonials Section
