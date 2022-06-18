@@ -42,7 +42,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 50px;
+  padding: 2rem 5rem;
   box-shadow: 0 1px 8px #ddd;
   
 } 
@@ -50,7 +50,7 @@ nav {
 nav li {
   list-style: none;
   display: inline-block;
-  padding: 0 20px;
+  padding: 0 2rem;
   font-size: 2rem;
   color: #0557a4;
 }
@@ -63,7 +63,7 @@ nav li {
   background-color: #0557a4;
   border-radius: 3px;
   color: white;
-  padding: .3rem;
+  padding: 3px;
 }
 
 /* hero image */
@@ -84,17 +84,17 @@ nav li {
 /* about us section */
 
 #about-us {
-  margin: 75px auto 25px auto;
+  margin: 7.5rem auto 2.5rem auto;
   text-align: center;
 }
 
 #about-us-image {
-  margin-top: 25px;
+  margin-top: 2.5rem;
   border-radius: 10%;
 }
 
 #about-us p {
-  margin: 25px auto 25px auto;
+  margin: 2.5rem auto 2.5rem auto;
   text-align: left;
 }
 
@@ -272,7 +272,7 @@ footer {
 
 hr {
   border-style: none;
-  border-top: 15px dotted #387eaf;
+  border-top: 1.5rem dotted #387eaf;
   opacity: 0.6;
   margin: 5rem 33% 5rem 33%;
 } 
