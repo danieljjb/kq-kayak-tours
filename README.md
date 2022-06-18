@@ -119,3 +119,17 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 * The boxes are stacked on top of each other for phones users (Iphone XR used in example).
 
 ### Contact Section
+
+<img src="/docs/contact-section.png">
+
+* The contact section contains a from which allows users to direcly message the business.
+
+* There are fields to input first name, last name, email address and inquiry so the business can collect the right information in order to respond the the user.
+
+<img src="/docs/contact-section-prompt.png">
+
+* If a user does not enter information in a given field, they will be prompted with "Please fill in this field.".
+
+<img src="/docs/contact-section-prompt.png">
+
+* For phone users, the contact form covers the full width of the screen.
