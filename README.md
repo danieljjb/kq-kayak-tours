@@ -143,3 +143,9 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 <img src="/docs/footer-hover.png">
 
 * When the user hovers over an icon it changes color to help the user know which one they are about to select.
+
+## Features to be Added
+
+* Hamburger menu for smaller screens.
+* An online shop where users can buy their tour online as well as buy vouchers for friends.
+* Video compilations of what to expect for each package.
