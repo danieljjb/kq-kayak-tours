@@ -133,3 +133,9 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 <img src="/docs/contact-section-phone.png">
 
 * For phone users, the contact form covers the full width of the screen.
+
+### Footer
+
+<img src="/docs/footer.png">
+
+* The footer section contains links to the business' Facebook, Instagram and Twitter, which open in a seperate tab when clicked on.
