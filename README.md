@@ -19,11 +19,11 @@ This website will provide information on a kayak tour business in a village in W
 
 ## User Stories
 
-* As a prospective user, I would like to see some backround information about the business.
-* As a prospective user, I would like to see what the business offers including intinerary, prices etc.
-* As a prospective user, I would like to read about other customers experiences with this business.
-* As a prospective user, I would like to easily contact the business.
-* As a prospective user, I would like to see links to social media.
+* As a user, I would like to see some backround information about the business.
+* As a user, I would like to see what the business offers including intinerary, prices etc.
+* As a user, I would like to read about other customers experiences with this business.
+* As a user, I would like to easily contact the business.
+* As a user, I would like to see links to social media.
 
 ## Business Owners Goals
 
