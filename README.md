@@ -80,13 +80,13 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 
 ### Homepage
 
-<img src="/docs/readme/homepage.png">
+<img src="/docs/homepage.png">
 
 * When the user opens up the homepage they will be greeted with the navigation bar, as shown previously, and an image of a person kayaking which helps to give context to what they may expect to find on the website.
 
 ### About Us Section
 
-<img src="/docs/readme/about-us-section.png">
+<img src="/docs/about-us-section.png">
 
 * The About Us section contains an aerial image of the area where the business is located and provides the users an attractive view of the marina and beach.
 
