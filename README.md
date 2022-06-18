@@ -113,3 +113,7 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 <img src="/docs/testimonials-section.png
 
 * The testimonials section tells the user about what previous customers thought of their experience. It contains a user rating which is displayed using gold stars, a heading that gives the reader an overall sense of their experience and a short paragraph about their experience with their name to sign off.
+
+<img src="/docs/testimonials-section-phone.png
+
+* The boxes are stacked on top of each other for phones users (Iphone XR used in example).
