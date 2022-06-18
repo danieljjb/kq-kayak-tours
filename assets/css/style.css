@@ -28,6 +28,14 @@ h2 {
 
 /* header, nav and menu */
 
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 9999999;
+  background-color: #fff;
+}
+
 header a {
   text-decoration: none;
   color: #0557a4
