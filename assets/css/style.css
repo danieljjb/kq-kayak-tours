@@ -125,7 +125,7 @@ nav li {
   text-align: center
 }
 
-#packages div {
+.packages-info {
   color: #0557a4;
   width: 30rem;
   height: 45rem;
