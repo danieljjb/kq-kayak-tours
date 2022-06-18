@@ -42,7 +42,7 @@ This website will provide information on a kayak tour business in a village in W
 
 ## Colors
 
-<img src="/assets/readme/colorpalette.png">
+<img src="/docs/colorpalette.png">
 
 I decided the use a simple color design for this website. The blue in this selection helps represent the ocean and it contrasts nicely with black and white.
 
@@ -66,27 +66,27 @@ I have chosen to use the font [Montserrat](https://fonts.google.com/specimen/Mon
 
 The navigation bar is fully responsive and works on multiple screen sizes. It includes links to navigate the website and has the name of the business which also acts as home button.
 
-<img src="/assets/readme/navbar.png">
+<img src="/docs/readme/navbar.png">
 
 * The navbar includes clear headings to provide an easy way to navigate the website including: About Us, Tours, Testimonials and Contact.
 
-<img src="/assets/readme/navbar-hover.png">
+<img src="/docs/navbar-hover.png">
 
 * When a heading is hovered over in the navbar the text changes to white and the background changes to blue so as to let the user know what they are about select.
 
-<img src="/assets/readme/navbar-phone.png">
+<img src="/docs/navbar-phone.png">
 
 * The items in the navbar stack on top of each other when using a phone (Iphone XR used in example).
 
 ### Homepage
 
-<img src="/assets/readme/homepage.png">
+<img src="/docs/readme/homepage.png">
 
 * When the user opens up the homepage they will be greeted with the navigation bar, as shown previously, and an image of a person kayaking which helps to give context to what they may expect to find on the website.
 
 ### About Us Section
 
-<img src="/assets/readme/about-us-section.png">
+<img src="/docs/readme/about-us-section.png">
 
 * The About Us section contains an aerial image of the area where the business is located and provides the users an attractive view of the marina and beach.
 
@@ -94,16 +94,16 @@ The navigation bar is fully responsive and works on multiple screen sizes. It in
 
 ### Tours Section
 
-<img src="/assets/readme/tours-section.png">
+<img src="/docs/tours-section.png">
 
 * The Tours section contains information about what packages the business offers. It provides information to the user about what they can expect in terms of the itinerary and price per person.
 
 * Attractive icons are used above each package to entice the user.
 
-<img src="/assets/readme/tours-icon-hover.png">
+<img src="/docs/tours-icon-hover.png">
 
 * When the user hovers over an icon it changes color which increases the attractiveness of the website
 
-<img src="/assets/readme/tours-section-phone.png">
+<img src="/docs/tours-section-phone.png">
 
 * The boxes the tours are presented in become stacked on top each other for phone users (Iphone XR used in example).
