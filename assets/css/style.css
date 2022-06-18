@@ -276,6 +276,12 @@ footer {
   color: #fff;
 }
 
+#social-networks i:hover {
+  color: #0557a4;
+  background-color: #fff;
+  border-radius: 3px;
+}
+
 
 /* hr */
 
