@@ -70,7 +70,7 @@ nav li {
 #menu a:hover {
   background-color: #0557a4;
   border-radius: 3px;
-  color: white;
+  color: #fff;
   padding: 3px;
 }
 
@@ -146,11 +146,11 @@ nav li {
 }
 
 #packages div p {
-  color: black;
+  color: #000000;
 }
 
 .fa-otter {
-  color: green;
+  color: #008000;
 }
 
 .fa-fish {
@@ -158,7 +158,7 @@ nav li {
 }
 
 .fa-children {
-  color: orange;
+  color: #FFA500;
 }
 
 .fa-solid {
@@ -166,7 +166,7 @@ nav li {
 }
 
 .fa-solid:hover {
-  color: red;
+  color: #FF0000;
 }
 
 /* testimonials */
@@ -179,23 +179,23 @@ nav li {
 }
 
 #testimonials div {
-  color: white;
+  color: #fff;
   width: 25.6rem;
   height: 30rem;
   padding: 3rem 1rem 1rem 1rem;
   display: inline-block;
-  border: .2rem solid white;
+  border: .2rem solid #fff;
   box-sizing: border-box;
   vertical-align: top;
   margin: 2.5rem 1rem 2.5rem 1rem;
 }
 
 #testimonials h2 {
-  color: white;
+  color: #fff;
 }
 
 #testimonials div h3 {
-  color: gold;
+  color: #FFD700;
 }
 
 #testimonials div h4 {
@@ -204,7 +204,7 @@ nav li {
 }
 
 #testimonials div p {
-  color: white;
+  color: #fff;
 }
 
 /* contact */
@@ -235,7 +235,7 @@ textarea {
 
 input[type=submit] {
   background-color: #0557a4;
-  color: white;
+  color: #fff;
   padding: 1.2rem 2rem;
   border: none;
   border-radius: .4rem;
@@ -272,7 +272,7 @@ footer {
   font-size: 150%;
   margin: 1rem;
   padding: 1rem;
-  color: white;
+  color: #fff;
 }
 
 
