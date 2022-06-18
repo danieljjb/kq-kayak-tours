@@ -79,7 +79,6 @@ nav li {
 #hero-image-outer {
   height: 100vh;
   width: 100%;
-
   position: relative;
 }
 
@@ -139,7 +138,7 @@ nav li {
 }
 
 
-#packages div h3 {
+.packages-heading {
   text-transform: uppercase;
   color: black;
   margin-bottom: 1rem;
