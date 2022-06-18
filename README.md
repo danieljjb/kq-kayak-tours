@@ -117,3 +117,5 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 <img src="/docs/testimonials-section-phone.png">
 
 * The boxes are stacked on top of each other for phones users (Iphone XR used in example).
+
+### Contact Section
