@@ -200,3 +200,8 @@ I deployed this site on GitHub using the following steps:
 * Under the heading 'Source', I clicked on 'None' and selected 'Main'.
 * I then clicked 'Save'.
 * The website then became live.
+
+# Credits
+
+* [Simen Daehlin](https://github.com/Eventyret)
+* [Code Institute](https://codeinstitute.net/ie/)
