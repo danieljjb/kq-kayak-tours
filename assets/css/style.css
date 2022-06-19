@@ -249,7 +249,7 @@ input[type=submit]:hover {
   background-color: #034078;
 }
 
-.container {
+.form-container {
   border-radius: .5rem;
   background-color: #f2f2f2;
   padding: 20px;
@@ -297,7 +297,6 @@ hr {
 /* media queries */
 
 @media screen and (min-width: 992px) {
-
 
   .form-container {
     margin: auto 7.5rem;
