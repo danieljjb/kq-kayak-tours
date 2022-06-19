@@ -186,6 +186,19 @@ The website is fully responsive on many different screen sizes and the images an
 
 * There were no issues with the CSS code when put through the CSS validator.
 
+## Lighthouse Testing
+
+I used lighthouse on google chrome to test the website for performance, accessibility, best practices and SEO.
+
+### Desktop Results
+
+<img src="/docs/lighthouse-testing-desktop.png">
+
+### Mobile Results
+
+<img src="/docs/lighthouse-testing-mobile.png">
+
+
 
 ## Unfixed Bugs
 
