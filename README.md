@@ -8,6 +8,8 @@ This website will provide information on a kayak tour business in a village in W
 
 [View the live project here.](https://danieljjb.github.io/kq-kayak-tours/)
 
+<img src="/docs/multiple-devices.png">
+
 # UX
 
 ## User Goals
