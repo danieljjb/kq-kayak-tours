@@ -46,6 +46,8 @@ This website will provide information on a kayak tour business in a village in W
     * [Unfixed Bugs](#unfixed-bugs)
 * [Deployment](#deployment)
 * [Credits](#credits)
+    * [Code](#code)
+    * [Images](#images)
 
 
 
