@@ -14,6 +14,38 @@ This website will provide information on a kayak tour business in a village in W
 
 * [UX](#ux)
     * [User Goals](#user-goals)
+    * [User Stories](#user-stories)
+    * [Business Owners Goals](#business-owners-goals)
+        * [Requirements](#requirements)
+* [Design](#design)
+    * [Colors](#colors)
+    * [Icons](#icons)
+    * [Fonts](#fonts)
+* [Features](#features)
+    * [Existing Features](#existing-features)
+        * [Navigation Bar](#navigation-bar)
+        * [Homepage](#homepage)
+        * [About Us Section](#about-us-section)
+        * [Tours Section](#tours-section)
+        * [Testimonials Section](#testimonials-section)
+        * [Contact Section](#contact-section)
+        * [Footer](#footer)
+    * [Features to be Added](#features-to-be-added)
+* [Technologies Used](#technologies-used)
+    * [Languages](#languages)
+    * [Libraries and Frameworks](#libraries-and-frameworks)
+    * [Tools](#tools)
+* [Testing](#testing)
+    * [HTML Validator Results](#html-validator-results)
+    * [CSS Validator Results](#css-validator-results)
+    * [Lighthouse Testing](#lighthouse-testing)
+        * [Desktop Results](#desktop-results)
+        * [Mobile Results](#mobile-results)
+    * [Unfixed Bugs](#unfixed-bugs)
+* [Deployment](#deployment)
+* [Credits](#credits)
+
+
 
 # UX
 
