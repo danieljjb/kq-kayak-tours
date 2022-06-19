@@ -171,3 +171,5 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 * [Color Hunt](https://colorhunt.co/)
 
 # Testing
+
+The website is fully responsive on many different screen sizes and the images and text look good from small devices to larger devices and everything in between. The content is easy to understand and navigate and the color scheme blends everything in well together.
