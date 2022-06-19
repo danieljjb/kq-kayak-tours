@@ -279,5 +279,12 @@ I deployed this site on GitHub using the following steps:
 
 # Credits
 
+## Code
+
 * [Simen Daehlin](https://github.com/Eventyret)
 * [Code Institute](https://codeinstitute.net/ie/)
+
+## Images
+
+* [Pexels](https://www.pexels.com/)
+* [Marinas](https://marinas.com/view/marina/d9cvl9_Kilmore_Quay_Kilmore_Quay_Ireland#&gid=1&pid=4)
