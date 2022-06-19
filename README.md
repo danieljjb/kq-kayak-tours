@@ -215,6 +215,7 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 * [Color Hunt](https://colorhunt.co/)
 * [Am I Responsive?](https://ui.dev/amiresponsive)
+* [W3schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
 # Testing
 
