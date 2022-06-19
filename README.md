@@ -48,6 +48,7 @@ This website will provide information on a kayak tour business in a village in W
 * [Credits](#credits)
     * [Code](#code)
     * [Images](#images)
+    * [Content](#content)
 
 
 
@@ -290,3 +291,9 @@ I deployed this site on GitHub using the following steps:
 
 * [Pexels](https://www.pexels.com/)
 * [Marinas](https://marinas.com/view/marina/d9cvl9_Kilmore_Quay_Kilmore_Quay_Ireland#&gid=1&pid=4)
+
+## Content
+
+* All of the text was written by myself.
+* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
