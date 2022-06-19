@@ -41,6 +41,8 @@ This website will provide information on a kayak tour business in a village in W
     * [Lighthouse Testing](#lighthouse-testing)
         * [Desktop Results](#desktop-results)
         * [Mobile Results](#mobile-results)
+    * # [Devices Used in Testing](#devices-used-in-testing)
+    * # [Browsers Used in Testing](#browsers-used-in-testing)
     * [Unfixed Bugs](#unfixed-bugs)
 * [Deployment](#deployment)
 * [Credits](#credits)
