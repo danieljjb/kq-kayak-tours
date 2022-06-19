@@ -176,12 +176,12 @@ The website is fully responsive on many different screen sizes and the images an
 
 ## HTML Validator Results
 
-<img src="/docs/html-validator">
+<img src="/docs/html-validator.png">
 
 * There were no issues with the HTML code when put through the HTML validator.
 
 ## CSS Validator Results
 
-<img src="/docs/css-validator">
+<img src="/docs/css-validator.png">
 
 * There were no issues with the CSS code when put through the CSS validator.
