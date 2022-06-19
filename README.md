@@ -10,6 +10,11 @@ This website will provide information on a kayak tour business in a village in W
 
 <img src="/docs/multiple-devices.png">
 
+# Table of Contents
+
+* [UX](#ux)
+    * [User Goals](#user-goals)
+
 # UX
 
 ## User Goals
