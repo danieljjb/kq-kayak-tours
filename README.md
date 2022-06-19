@@ -239,7 +239,22 @@ I used lighthouse on google chrome to test the website for performance, accessib
 
 <img src="/docs/lighthouse-testing-mobile.png">
 
+## Devices Used in Testing
 
+I tested the website on multiple devices by going onto to website, right clicking and selecting 'Inspect'. From here I was able to test the website on devices such as:
+* iPhone SE
+* iPhone XR
+* iPhone 12 PRO
+* Pixel 5
+* Samsung Galaxy S8+
+* Samsung Galaxy S20 Ultra
+* iPad Air
+* iPad Mini
+* Surface Pro 7
+* Surface Duo
+* Samsung Galaxy A51/71
+* Nest Hub
+* Nest Hub Max
 
 ## Unfixed Bugs
 
