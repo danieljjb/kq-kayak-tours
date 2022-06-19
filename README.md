@@ -173,3 +173,15 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 # Testing
 
 The website is fully responsive on many different screen sizes and the images and text look good from small devices to larger devices and everything in between. The content is easy to understand and navigate and the color scheme blends everything in well together.
+
+## HTML Validator Results
+
+<img src="/docs/html-validator">
+
+* There were no issues with the HTML code when put through the HTML validator.
+
+## CSS Validator Results
+
+<img src="/docs/css-validator">
+
+* There were no issues with the CSS code when put through the CSS validator.
