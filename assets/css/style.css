@@ -107,8 +107,9 @@ nav li {
   text-align: left;
 }
 
-#about-us-image, #about-us p {
-  width: 90%;
+#about-us p, #about-us-image {
+  width: 60%;
+
 }
 
 
@@ -296,10 +297,6 @@ hr {
 
 @media screen and (min-width: 992px) {
 
-  #about-us p, #about-us-image {
-      width: 60%;
-
-    }
 
   .form-container {
     margin: auto 7.5rem;
@@ -318,4 +315,8 @@ hr {
   #menu li {
     width: 60%;
   }
+
+  #about-us-image, #about-us p {
+  width: 90%;
+}
 }
