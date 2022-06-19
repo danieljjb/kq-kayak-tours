@@ -219,7 +219,11 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 
 # Testing
 
-The website is fully responsive on many different screen sizes and the images and text look good from small devices to larger devices and everything in between. The content is easy to understand and navigate and the color scheme blends everything in well together.
+* The website is fully responsive on many different screen sizes and the images and text look good from small devices to larger devices and everything in between. The content is easy to understand and navigate and the color scheme blends everything in well together.
+
+* I tested each of the links in the navigation bar one by one by clicking on them.
+
+* I tested the contact forms 'required' component by inserting text into each field one at time and clicking to submit. I expected to see "Please fill in this field." for the fields that had no text. It worked on each of them.
 
 ## HTML Validator Results
 
