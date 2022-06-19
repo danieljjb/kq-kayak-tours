@@ -275,7 +275,7 @@ I deployed this site on GitHub using the following steps:
 * Following this I clicked on 'Pages'.
 * Under the heading 'Source', I clicked on 'None' and selected 'Main'.
 * I then clicked 'Save'.
-* The website then became live.
+* The website then became live [here.](https://danieljjb.github.io/kq-kayak-tours/)
 
 # Credits
 
