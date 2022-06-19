@@ -188,6 +188,7 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 * Hamburger menu for smaller screens.
 * An online shop where users can buy their tour online as well as buy vouchers for friends.
 * Video compilations of what to expect for each package.
+* Message sent page to appear when the user submits a message using the contact form.
 
 # Technologies Used
 
