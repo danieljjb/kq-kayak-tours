@@ -190,3 +190,13 @@ The website is fully responsive on many different screen sizes and the images an
 ## Unfixed Bugs
 
 * On smaller devices, when using the menu links to navigate the webpage, it scrolls down a little too far covering the heading of the section. I could not find a way to resolve this issue but in the future I would change the menu to a dropdown hamburger menu, which I believe will solve this problem.
+
+# Deployment
+
+I deployed this site on GitHub using the following steps: 
+
+* I opened the repository on GitHub and selected 'Settings'.
+* Following this I clicked on 'Pages'.
+* Under the heading 'Source', I clicked on 'None' and selected 'Main'.
+* I then clicked 'Save'.
+* The website then became live.
