@@ -185,3 +185,8 @@ The website is fully responsive on many different screen sizes and the images an
 <img src="/docs/css-validator.png">
 
 * There were no issues with the CSS code when put through the CSS validator.
+
+
+## Unfixed Bugs
+
+* On smaller devices, when using the menu links to navigate the webpage, it scrolls down a little too far covering the heading of the section. I could not find a way to resolve this issue but in the future I would change the menu to a dropdown hamburger menu, which I believe will solve this problem.
