@@ -295,5 +295,6 @@ I deployed this site on GitHub using the following steps:
 ## Content
 
 * All of the text was written by myself.
-* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
+* The contact form code was taken from [w3schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
