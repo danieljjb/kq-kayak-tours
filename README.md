@@ -225,6 +225,8 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 
 * I tested the contact forms 'required' component by inserting text into each field one at time and clicking to submit. I expected to see "Please fill in this field." for the fields that had no text. It worked on each of them.
 
+* I tested the social media links in the footer by clicking on them one by one. They each opened the correct page page in a new tab as expected.
+
 ## HTML Validator Results
 
 <img src="/docs/html-validator.png">
