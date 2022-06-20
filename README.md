@@ -223,7 +223,7 @@ The navigation bar is fully responsive and works on multiple screen sizes. It st
 
 * I tested each of the links in the navigation bar one by one by clicking on them.
 
-* I tested the contact forms 'required' component by inserting text into each field one at time and clicking to submit. I expected to see "Please fill in this field." for the fields that had no text. It worked on each of them.
+* I tested the contact forms 'required' component by inserting text into each field one at time and clicking submit. I expected to see "Please fill in this field." for the fields that had no text. It worked on each of them.
 
 * I tested the contact form submit button and was brought to the code institute form dump page as expected.
 
